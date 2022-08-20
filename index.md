@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Phil Wernette, PhD Homepage"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Thank you for visiting my homepage. It is a work in progress and will be periodically updated as my research career develops...
