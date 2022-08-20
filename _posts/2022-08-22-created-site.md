@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2022-08-20
+---
 Thank you for visiting my blog.
 
 My research heavily involves developing innovative custom machine learning (ML) approaches to address a range of complex environmental challenges. I am a trained coastal geomorphologist/geologist with extensive experience in remote sensing, geogphysics, teaching, and field methods.
