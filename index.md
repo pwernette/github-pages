@@ -1,5 +1,5 @@
 ---
-title: "My Research and Career Blog"
+title: "The Michigander Coastal Geomorphologist"
 ---
 
 Thank you for visiting my research and career blog. It is a work in progress and will be periodically updated everything develops...
